@@ -1,6 +1,6 @@
 # Cpp_Tutorials
 #Day-01
----- Variables,Comments ----
+---- Variables,Comments ---- 
 //Day-1 Comment is a part which is informative for programmer and ignored by compiler
 #include<iostream> //header file
 using namespace std;
